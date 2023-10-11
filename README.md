@@ -46,3 +46,8 @@ To enable the code coverage reports, see [here](https://fpgmaas.github.io/cookie
 ---
 
 Repository initiated with [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry).
+
+## Reference
+- [Large language models][def]
+
+[def]: https://github.com/databricks-academy/large-language-models
